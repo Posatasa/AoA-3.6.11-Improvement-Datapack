@@ -1,0 +1,8 @@
+{
+  "config": {
+    "min": 130,
+    "max": 180,
+    "ignore_obstructions": true
+  },
+  "type": "aoa3:fungshroom"
+}
