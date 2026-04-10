@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RRR",
+    "CNC",
+    "DDD"
+  ],
+  "key": {
+    "R": {
+      "item": "aoa3:wither_rune"
+    },
+    "C": {
+      "item": "aoa3:charged_runium_chunk"
+    },
+    "N": {
+      "item": "minecraft:nether_star"
+    },
+    "D": {
+      "item": "minecraft:diamond_block"
+    }
+  },
+  "result": {
+    "item": "aoa3:wither_rune_post",
+    "count": 1
+  }
+}
